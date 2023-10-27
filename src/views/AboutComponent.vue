@@ -4,7 +4,7 @@
         <div class="inline-flex items-center mr-3 text-sm text-gray-900 dark:text-white">
             <img class="mr-4 w-16 h-16 rounded-full" src="../assets/images/ErvinSebastian.jpg" alt="Ervin Sebastian">
             <div>
-                <a href="#" rel="author" class="text-xl font-bold text-gray-900 dark:text-white">ErvinDev</a>
+                <a href="#" rel="author" class="text-xl font-bold text-gray-900 dark:text-white">DevErvin</a>
                 <p class="text-base text-gray-500 dark:text-gray-400">Web Developer in Manila based Tech company</p>
             
             </div>
