@@ -1,19 +1,36 @@
 /** @type {import('tailwindcss').Config} */
+const colors = require('tailwindcss/colors')
 module.exports = {
   content: [
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx,vue}",
   ],
   theme: {
-    extend: {},
+    fontFamily:{
+      'Hind': ['Hind']
+    },
+    colors: {
+      transparent: 'transparent',
+      current: 'currentColor',
+      black: colors.black,
+      white: colors.white,
+      gray: colors.gray,
+      emerald: colors.emerald,
+      indigo: colors.indigo,
+      yellow: colors.yellow,
+    },
+    backgroundImage: {
+      'test': "url('../assets/images/727.jpg')",
+      'footer-texture': "url('/img/footer-texture.png')",
+    }
   },
   plugins: [
-    require("daisyui")
+    require("daisyui"),
+    require('@tailwindcss/typography'),
   ],
 
   daisyui: {
-    themes: ["light", "dark", "cupcake"],
-    darkTheme: "dark", // name of one of the included themes for dark mode
+    themes: ["light","dark"],
     base: true, // applies background color and foreground color for root element by default
     styled: true, // include daisyUI colors and design decisions for all components
     utils: true, // adds responsive and modifier utility classes
