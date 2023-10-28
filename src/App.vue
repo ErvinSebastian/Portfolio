@@ -19,9 +19,16 @@ import ProjectView from './views/PortfolioComponent.vue'
                         <li>
                               <a class="font-bold text-lg" href="#projects">Projects</a>
                         </li>
-                        <li>
-                              <a class="font-bold text-lg">Contact</a>
-                        </li>
+                     
+                           
+                              <a href="https://www.linkedin.com/in/devervin/">
+                                    <img class="my-2 w-8 h-8 rounded-full mx-2" src="src/assets/images/linkedin.png" alt="Linkedin">
+                              </a>
+                              <a href="https://github.com/ErvinSebastian">
+                                    <img class="my-2 w-8 h-8 rounded-full mx-2" src="src/assets/images/github.png" alt="Github">
+                              </a>
+                            
+                      
                         </ul>
                   </div>
             </div>
@@ -41,6 +48,11 @@ import ProjectView from './views/PortfolioComponent.vue'
                       
                   </div>
             </main>
+            <footer class="footer footer-center p-4 bg-base-300 text-base-content">
+                  <aside>
+                        <p> 🤟 🤟 © 2023 - Ervin Sebastian</p>
+                  </aside>
+            </footer>
             
       
       </html>

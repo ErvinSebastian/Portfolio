@@ -5,6 +5,7 @@
             <img class="mr-4 w-16 h-16 rounded-full" src="../assets/images/ErvinSebastian.jpg" alt="Ervin Sebastian">
             <div>
                 <div class="w-32 rounded">
+                🖐🖐🤘
                     <img src="\src\assets\images\logo-content.png"/>
                 </div>
                 <p class="text-base text-gray-500 dark:text-gray-400">Web Developer in a Manila based Tech Company</p>
