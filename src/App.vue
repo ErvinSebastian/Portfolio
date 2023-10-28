@@ -22,10 +22,10 @@ import ProjectView from './views/PortfolioComponent.vue'
                      
                            
                               <a href="https://www.linkedin.com/in/devervin/">
-                                    <img class="my-2 w-8 h-8 rounded-full mx-2" src="src/assets/images/linkedin.png" alt="Linkedin">
+                                    <img class="my-2 w-8 h-8 rounded-full mx-2" src="/src/assets/images/linkedin.png" alt="Linkedin">
                               </a>
                               <a href="https://github.com/ErvinSebastian">
-                                    <img class="my-2 w-8 h-8 rounded-full mx-2" src="src/assets/images/github.png" alt="Github">
+                                    <img class="my-2 w-8 h-8 rounded-full mx-2" src="/src/assets/images/github.png" alt="Github">
                               </a>
                             
                       
