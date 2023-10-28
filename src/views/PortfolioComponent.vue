@@ -15,7 +15,7 @@
         <figure><img src="../assets/images/coffee-bg.jpg" alt="Shoes" /></figure>
         <div class="card-body">
             <h2 class="card-title">Coming Soon</h2>
-            <p>A non friendly UX application created to have fun while learning new trending tech stack.</p>
+            <p>A non friendly UX application created to have fun while learning trend tech stacks.</p>
             <div class="card-actions justify-end">
             <!-- <button class="btn btn-sm btn-primary"></button> -->
             </div>
@@ -26,7 +26,7 @@
         <figure><img src="../assets/images/coffee-bg.jpg" alt="Shoes" /></figure>
         <div class="card-body">
             <h2 class="card-title">Coming Soon</h2>
-            <p>A non friendly UX application created to have fun while learning new trending tech stack.</p>
+            <p>An ERP Product that can help small businesses track their day to day transactions.</p>
             <div class="card-actions justify-end">
             <!-- <button class="btn btn-sm btn-primary"></button> -->
             </div>

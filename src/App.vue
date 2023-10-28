@@ -11,8 +11,10 @@ import ProjectView from './views/PortfolioComponent.vue'
 
             <div class="sticky top-0 z-10 backdrop-filter backdrop-blur-md bg-opacity-100 h-15 bg-gray shadow-xl">
                   <div class="flex flex-wrap items-center justify-around">
-                        <a href="/" class="btn btn-ghost normal-case text-xl">DevErvin</a>
-                 
+                        <div class="w-32 rounded">
+                              <img src="src\assets\images\logo-content.png"/>
+                        </div>
+                        
                         <ul class="menu menu-horizontal px-1">
                         <li>
                               <a class="font-bold text-lg" href="#projects">Projects</a>
