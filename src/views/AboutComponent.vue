@@ -7,7 +7,7 @@
                 <div class="w-32 rounded">
                     <img src="\src\assets\images\logo-content.png"/>
                 </div>
-                <p class="text-base text-gray-500 dark:text-gray-400">Web Developer in Manila based Tech company</p>
+                <p class="text-base text-gray-500 dark:text-gray-400">Web Developer in a Manila based Tech Company</p>
             
             </div>
         </div>
